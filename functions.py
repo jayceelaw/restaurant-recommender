@@ -11,15 +11,15 @@ class Tree:
 
     Representation Invariants:
         - self._root is not None or self._subtrees == []
+
+    Instance Attributes:
+        - root: The item stored at this tree's root, or None if the tree is empty.
+        - subtrees: The list of subtrees of this tree. This attribute is empty when
+                    self._root is None (representing an empty tree). However, this attribute
+                    may be empty when self._root is not None, which represents a tree consisting
+                    of just one item. Items are sorted in ascending order by root.
     """
-    # Private Instance Attributes:
-    #   - _root:
-    #       The item stored at this tree's root, or None if the tree is empty.
-    #   - _subtrees:
-    #       The list of subtrees of this tree. This attribute is empty when
-    #       self._root is None (representing an empty tree). However, this attribute
-    #       may be empty when self._root is not None, which represents a tree consisting
-    #       of just one item. Items are sorted in ascending order by root.
+
     _root: Optional[Any]
     _subtrees: list[Tree]
     rating: Optional[float]
@@ -88,12 +88,12 @@ class Tree:
             for item in items:
                 tree = None
                 for subtree in self._subtrees:
-                    if subtree._root == item:
+                    if subtree._root == item.lstrip():
                         tree = subtree
 
                 if tree is None:
-                    tree = Tree(item, [])
-                    self._subtrees.append(tree)  # TODO: sort it
+                    tree = Tree(item.lstrip(), [])
+                    self.insert_tree(tree)
 
                 tree.add_restaurant(info[:len(info) - 1])
 
@@ -105,6 +105,53 @@ class Tree:
         """
         self.price = price
         self.rating = rating
+
+    def insert_tree(self, tree: Tree) -> None:
+        """ Mutates this tree to add tree to subtrees while keeping it sorted.
+
+        Preconditions:
+            - self._subtrees is sorted
+
+        >>> t = Tree('root', [Tree(1, []), Tree(2, []), Tree(4, [])])
+        >>> t.insert_tree(Tree(3, []))
+        >>> t._subtrees
+        [Tree(1, []), Tree(2, []), Tree(3, []), Tree(4, [])]
+        """
+        if len(self._subtrees) == 0:
+            self._subtrees.append(tree)
+        else:
+            for i in range(len(self._subtrees)):
+                if self._subtrees[i]._root > tree._root:
+                    self._subtrees.insert(i, tree)
+                    return
+            self._subtrees.append(tree)
+
+    def find_restaurants(self, user_input: list[str]) -> set[str]:
+        """
+        Returns a set of all restaurants matching user input for each category,
+        or None if there are no matches.
+
+        Preconditions:
+         - user_input in correct format ([cuisine, type, table booking, online order])
+        """
+        # base case - return list of restaurants
+        if len(user_input) == 0:
+            return {subtree._root for subtree in self._subtrees}
+        else:
+            start = 0
+            end = len(self._subtrees)
+
+            while start < end:
+                mid = (start + end) // 2
+                mid_subtree = self._subtrees[mid]
+
+                if user_input[0] == mid_subtree._root:
+                    # recursively search on matching subtree
+                    return mid_subtree.find_restaurants(user_input[1:])
+                elif user_input[0] < mid_subtree._root:
+                    end = mid
+                else:
+                    start = mid + 1
 
 
 class TreeBuilder:

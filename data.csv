@@ -8,7 +8,6 @@
 6,700.0,4.1,'@Italy,Yes,No,Casual Dining,Italian
 7,300.0,2.8,'@North Parontha Hut,No,No,"Takeaway, Delivery",North Indian
 8,300.0,3.2,1000 B.C,Yes,No,Quick Bites,"Arabian, Sandwich, Rolls, Burger"
-9,450.0,3.7,100ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°C,No,No,Casual Dining,"Biryani, North Indian"
 10,300.0,3.5,11 to 11 Express Biriyanis,Yes,No,Quick Bites,"Biryani, Kebab"
 11,1500.0,4.4,1131 Bar + Kitchen,No,Yes,"Bar, Casual Dining","Continental, Asian, Italian, North Indian"
 12,2000.0,4.1,12th Main - Grand Mercure,No,Yes,Fine Dining,"European, Asian"
@@ -370,7 +369,6 @@
 368,350.0,3.3,Andhra Vantillu,No,No,Quick Bites,"South Indian, North Indian"
 369,350.0,3.7,Andhra Vilaas,Yes,No,Quick Bites,"Andhra, North Indian, Biryani"
 370,600.0,3.3,Andhra Vindu Multi Cuisine Restaurant,Yes,No,Casual Dining,"Andhra, South Indian, Fast Food"
-371,300.0,3.1,Andy's CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©,No,No,Cafe,"Cafe, Beverages, Fast Food"
 372,400.0,3.7,Angaar Biriyani,Yes,No,Quick Bites,"Biryani, Chinese, Fast Food"
 373,600.0,3.9,Angaar Indian Grill & Restaurant,No,No,Casual Dining,"Arabian, Mughlai, North Indian, Chinese, Rolls"
 374,200.0,3.5,Angel Mess,No,No,Quick Bites,South Indian
@@ -508,7 +506,6 @@
 506,500.0,2.8,Azura Restaurant,Yes,No,Casual Dining,"North Indian, Mughlai, Chinese, Arabian, Kerala"
 507,1000.0,3.6,B & B The Pub,No,No,"Casual Dining, Bar","Asian, Continental"
 508,700.0,4.2,B Bhagat Tarachand,Yes,Yes,Casual Dining,"North Indian, Chinese, Street Food, Beverages"
-509,3400.0,4.3,b CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© - Shangri-La Hotel,No,Yes,"Fine Dining, Bar","North Indian, Italian, Chinese, Japanese"
 510,500.0,3.6,B.M.W - Bhookh Mitaane Wala,Yes,No,Delivery,"North Indian, South Indian, Chinese"
 511,500.0,3.5,B.M.W Bhookh Mitaane Wala,Yes,No,Quick Bites,"North Indian, South Indian, Chinese"
 512,1100.0,3.9,B1,Yes,Yes,Pub,"Continental, Burger, Italian, Pizza, North Indian, Salad"
@@ -896,7 +893,6 @@
 894,500.0,4.0,Bob's Restaurant,Yes,No,Quick Bites,"North Indian, Chinese"
 895,500.0,3.3,Body Temple,Yes,No,Quick Bites,Healthy Food
 896,1200.0,4.2,Boho,No,Yes,Casual Dining,"Continental, Asian, American, North Indian, Desserts"
-897,300.0,3.5,Bohra Bohra CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©,Yes,No,Quick Bites,Bohri
 898,1500.0,3.9,Bold,No,Yes,"Bar, Casual Dining","Modern Indian, Continental, North Indian"
 899,1500.0,3.4,Bollywood Grill,No,No,Casual Dining,North Indian
 900,1000.0,4.5,Bologna,No,Yes,Casual Dining,Italian
@@ -978,7 +974,6 @@
 976,1000.0,4.1,Brooks 37,Yes,Yes,"Casual Dining, Bar","North Indian, Continental, Asian, Pizza"
 977,1600.0,4.4,Brooks and Bonds Brewery,Yes,Yes,"Casual Dining, Microbrewery","Continental, Mediterranean, North Indian, Chinese, Finger Food"
 978,1000.0,3.4,Brother?s Bar & Kitchen,No,No,Casual Dining,"Chinese, North Indian"
-979,1000.0,3.4,BrotherÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs Bar & Kitchen,No,No,Casual Dining,"Chinese, North Indian"
 980,300.0,2.9,Brown Crust Cafe,No,No,Cafe,"Cafe, Italian, Desserts"
 981,300.0,3.9,Brownie Heaven,Yes,No,Dessert Parlor,Desserts
 982,300.0,3.8,Brownie Points,Yes,No,Bakery,"Bakery, Desserts"
@@ -1044,22 +1039,6 @@
 1042,600.0,3.9,C. K. Mega Hot Food,Yes,No,Casual Dining,"Chinese, Momos"
 1043,1000.0,4.3,Cable Car,Yes,Yes,Casual Dining,"North Indian, Italian"
 1044,200.0,3.2,CAD (M) CAD (B),No,No,Kiosk,Street Food
-1045,400.0,3.2,CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© Delight,No,No,"Cafe, Quick Bites","Cafe, Italian"
-1046,500.0,4.1,CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© Down The Alley,Yes,No,Cafe,Cafe
-1047,1700.0,4.4,CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© Felix,Yes,Yes,"Casual Dining, Cafe","American, Cafe, Continental"
-1048,300.0,3.4,CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© MH-28,Yes,No,Cafe,Cafe
-1049,700.0,4.1,CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© Mor'ish,Yes,No,Cafe,"BBQ, Continental, Burger, Wraps, Pizza, Cafe"
-1050,600.0,3.2,CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© S,No,No,Cafe,"Cafe, American, European"
-1051,450.0,3.9,CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© Secret Alley,Yes,No,Cafe,"Fast Food, Cafe"
-1052,400.0,3.2,CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© Delight,No,No,"Cafe, Quick Bites","Cafe, Italian"
-1053,1700.0,4.4,CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© Felix,Yes,Yes,"Casual Dining, Cafe","American, Cafe, Continental"
-1054,300.0,3.4,CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© MH-28,Yes,No,Cafe,Cafe
-1055,700.0,4.1,CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© Mor'ish,Yes,No,Cafe,"BBQ, Continental, Burger, Wraps, Pizza, Cafe"
-1056,600.0,3.2,CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© S,No,No,Cafe,"Cafe, American, European"
-1057,450.0,3.9,CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© Secret Alley,Yes,No,Cafe,"Cafe, Fast Food, Chinese"
-1058,1700.0,4.4,CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© Felix,Yes,Yes,"Casual Dining, Cafe","American, Cafe, Continental"
-1059,300.0,3.4,CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© MH-28,Yes,No,Cafe,Cafe
-1060,700.0,4.1,CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© Mor'ish,Yes,No,Cafe,"BBQ, Continental, Burger, Wraps, Pizza, Cafe"
 1061,1000.0,3.7,Cafe @ Elanza,No,No,"Casual Dining, Cafe","Chinese, North Indian, Cafe"
 1062,700.0,2.9,Cafe 22,No,No,Cafe,"Cafe, Fast Food"
 1063,300.0,3.7,Cafe 221B,Yes,Yes,Cafe,"Cafe, Beverages"
@@ -1919,8 +1898,6 @@
 1917,500.0,3.5,Dr. Harry's Chick Blast,Yes,No,Quick Bites,Continental
 1918,200.0,3.5,Dr. Shawarma,Yes,No,Quick Bites,"North Indian, Rolls, Street Food"
 1919,800.0,4.1,Dr. Sheesha,No,Yes,Cafe,"Cafe, Chinese, Continental, Italian"
-1920,900.0,4.1,Draggers CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©,Yes,No,Cafe,"Cafe, Continental, North Indian"
-1921,900.0,4.0,Draggers CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©,Yes,No,Cafe,"Cafe, Continental, North Indian"
 1922,450.0,3.0,Dragon Box,Yes,No,Takeaway,"Chinese, Momos"
 1923,500.0,3.1,Dragon's Kitchen,Yes,No,Casual Dining,Chinese
 1924,400.0,,D-Ra's Delicacy,No,No,Delivery,"Chinese, Bakery"
@@ -1936,7 +1913,6 @@
 1934,400.0,3.1,Drunken Monkey,Yes,No,"Beverage Shop, Quick Bites","Beverages, Fast Food"
 1935,1000.0,4.4,Drunkling - Sizzlers and Pub,Yes,Yes,"Casual Dining, Bar","Chinese, Continental, North Indian, Burger, Pizza, Seafood"
 1936,200.0,3.6,Dry Dock Cafe,No,No,Quick Bites,"Street Food, Tea"
-1937,200.0,3.2,DS Juice CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© & Grill,Yes,No,Quick Bites,"Fast Food, Juices, Chinese"
 1938,80.0,2.8,Dtink Lab,No,No,Quick Bites,"Beverages, Sandwich"
 1939,2500.0,4.1,Dublin - ITC Windsor,No,Yes,Bar,European
 1940,600.0,3.7,Dum & Oven,No,No,Casual Dining,"North Indian, Hyderabadi, Continental"
@@ -1955,7 +1931,6 @@
 1953,350.0,2.8,D-Zaprino,Yes,No,"Takeaway, Delivery","Fast Food, Burger, Pizza"
 1954,350.0,3.5,E - City Combos,Yes,No,"Takeaway, Delivery","South Indian, North Indian, Chinese, Biryani"
 1955,550.0,3.1,E Foods Regalia,No,No,Quick Bites,"South Indian, Chinese"
-1956,550.0,3.5,E2 - EntrÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©e Envoy,No,No,Delivery,"Chinese, North Indian, Biryani"
 1957,700.0,3.1,Eagle Bar & Restaurant,No,No,"Casual Dining, Bar","North Indian, Chinese"
 1958,700.0,3.2,Eagle Ridge,No,Yes,Casual Dining,"South Indian, North Indian, Chinese"
 1959,400.0,3.6,Eagles Pizza,Yes,No,Casual Dining,"Pizza, Italian"
@@ -2231,8 +2206,6 @@
 2229,300.0,2.8,Foody's Land,Yes,No,Quick Bites,Fast Food
 2230,450.0,,Foodzoo,No,No,Delivery,"Fast Food, Burger"
 2231,1500.0,4.1,Forage,No,Yes,Casual Dining,"Healthy Food, Beverages, European, Salad"
-2232,500.0,3.1,Foreign CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©,Yes,No,Delivery,Continental
-2233,500.0,3.1,Foreign CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©,Yes,No,Delivery,Continental
 2234,1800.0,4.1,Fort Kochi,No,Yes,"Casual Dining, Bar","Kerala, Seafood"
 2235,400.0,3.3,Four Seasons Fast Food,No,No,Quick Bites,"North Indian, Chinese, Biryani"
 2236,400.0,3.7,Four Seasons Fast Food Center,Yes,No,Quick Bites,"North Indian, Chinese, Biryani"
@@ -3247,8 +3220,6 @@
 3245,300.0,4.0,Kavali,No,No,Quick Bites,"South Indian, Street Food"
 3246,250.0,2.9,Kavya Sagar,No,No,Quick Bites,"South Indian, North Indian"
 3247,500.0,3.8,Kawaii,Yes,No,Dessert Parlor,"Desserts, Ice Cream"
-3248,3000.0,4.4,KazÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©,No,Yes,Fine Dining,"Asian, Japanese, Thai"
-3249,3000.0,4.4,KazÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©,No,Yes,Fine Dining,"Asian, Japanese, Thai"
 3250,400.0,3.4,KBC - Kebab Biryani Curry,Yes,No,Quick Bites,"North Indian, Chinese, Kebab, Biryani"
 3251,200.0,3.9,KC Das,Yes,No,"Sweet Shop, Quick Bites","Mithai, Street Food"
 3252,200.0,3.2,KC Das - Elite Sweets,No,No,"Sweet Shop, Quick Bites","Mithai, Street Food"
@@ -3553,11 +3524,6 @@
 3551,1000.0,4.3,Lazy Suzy,Yes,Yes,"Cafe, Bakery","Cafe, Continental, Beverages, Burger, Desserts, Pizza, Bakery, European"
 3552,400.0,2.8,Lazzet Lee,No,No,Quick Bites,"Mughlai, Cafe"
 3553,600.0,2.8,Le Arabia,Yes,No,Casual Dining,"North Indian, Mughlai"
-3554,450.0,4.4,Le Casse CroÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ»te,Yes,No,Quick Bites,"French, Sandwich, Salad"
-3555,800.0,4.4,Le Casse CroÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ»te,Yes,No,Quick Bites,"Fast Food, Sandwich"
-3556,350.0,3.8,Le ChÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©ri,No,No,Delivery,"Bakery, Desserts"
-3557,350.0,3.8,Le ChÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©ri,No,No,Delivery,"Bakery, Desserts"
-3558,350.0,3.8,Le ChÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©ri,No,No,Delivery,"Bakery, Desserts"
 3559,600.0,3.9,Le Charcoal,Yes,Yes,Casual Dining,"Arabian, Lebanese, Mughlai, North Indian, BBQ"
 3560,500.0,3.5,Le Charcoal Xpress,Yes,No,Quick Bites,"Arabian, Lebanese, Chinese, Rolls"
 3561,6000.0,4.3,Le Cirque Signature - The Leela Palace,No,Yes,Fine Dining,"French, Italian"
@@ -3587,8 +3553,6 @@
 3585,800.0,3.4,LG Park Restaurant,No,No,Casual Dining,"North Indian, South Indian"
 3586,3000.0,3.9,Library Bar - The Leela Palace,No,No,Lounge,Finger Food
 3587,750.0,3.2,Lickity Garden,Yes,No,Casual Dining,"Continental, Mexican, Biryani, Italian, Chinese, Arabian, Steak"
-3588,700.0,3.4,Lifetree CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©,No,No,Casual Dining,"North Indian, Chinese, Continental"
-3589,700.0,3.4,Lifetree CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©,No,No,Casual Dining,"North Indian, Chinese, Continental"
 3590,700.0,3.6,Light House Cafe,No,No,Cafe,"Cafe, Beverages, Continental, North Indian, Chinese"
 3591,350.0,3.3,Lil Asia,No,No,Casual Dining,"Chinese, Thai, Nepalese, Tibetan"
 3592,500.0,2.9,Lila Kitchen,Yes,No,Delivery,North Indian
@@ -3646,7 +3610,6 @@
 3644,,3.4,Lucky Bites,No,No,Quick Bites,"Fast Food, Chinese"
 3645,350.0,4.0,Lucky Singh & Co,No,No,"Takeaway, Delivery","Fast Food, North Indian, Rolls"
 3646,400.0,3.4,Lucky's Biriyani Point,Yes,No,"Takeaway, Delivery","Biryani, South Indian, North Indian, Fast Food"
-3647,550.0,3.9,Ludo CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©,No,No,Cafe,"Cafe, Chinese, Arabian"
 3648,300.0,3.6,Lulu's Bakery & Fast Food,Yes,No,Quick Bites,"North Indian, Chinese, Street Food"
 3649,300.0,3.3,Lumbini Snax,No,No,Quick Bites,"Burger, Fast Food, Italian"
 3650,100.0,3.6,Luna Sweets,No,No,Dessert Parlor,"Desserts, Mithai"
@@ -3953,8 +3916,6 @@
 3951,3000.0,4.2,Ministry of Food - Hilton Bangalore Embassy GolfLinks,No,Yes,Fine Dining,"North Indian, Asian, South Indian, Italian, European"
 3952,750.0,4.0,Mint and Mustard,Yes,No,Casual Dining,"North Indian, Chinese"
 3953,1000.0,2.8,Mint Masala,No,No,Casual Dining,"North Indian, Chinese"
-3954,500.0,3.0,Mint Spice CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© & Restaurant,Yes,No,Casual Dining,"North Indian, Chinese"
-3955,500.0,3.0,Mint Spice CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© & Restaurant,Yes,No,Casual Dining,"North Indian, Chinese"
 3956,350.0,2.8,Minuit 12,Yes,No,"Takeaway, Delivery","North Indian, Chinese, Fast Food"
 3957,300.0,3.2,Minus 4,No,No,Dessert Parlor,Desserts
 3958,250.0,3.6,Mira's Ranna-Ghor,No,No,Delivery,Bengali
@@ -4034,9 +3995,6 @@
 4032,350.0,3.7,Mothi Restaurant,No,No,Quick Bites,"North Indian, Kerala"
 4033,1000.0,4.0,Moti Mahal Delux,Yes,Yes,Casual Dining,"North Indian, Mughlai"
 4034,350.0,4.1,Motis Kitchen,Yes,No,Quick Bites,"South Indian, Kerala, Biryani"
-4035,500.0,4.2,Moto Store & CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©,Yes,No,Cafe,"Pizza, Italian, Cafe, Burger, Finger Food, Fast Food, Sandwich"
-4036,500.0,4.2,Moto Store & CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©,Yes,No,Cafe,"Pizza, Italian, Cafe, Burger, Finger Food, Fast Food, Sandwich"
-4037,500.0,4.2,Moto Store & CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©,Yes,No,Cafe,"Pizza, Italian, Cafe, Burger, Finger Food, Fast Food, Sandwich"
 4038,150.0,3.7,Mou Tushi Family Restaurant,No,No,Quick Bites,"Bengali, Oriya, Chinese, North Indian"
 4039,100.0,3.3,Mount View Fast Food,No,No,Takeaway,"Fast Food, Street Food"
 4040,400.0,3.9,Mountain Spice,Yes,No,Quick Bites,"Chinese, Nepalese, Tibetan, Momos"
@@ -4076,7 +4034,6 @@
 4074,250.0,2.8,Multi Ruchish,Yes,No,Quick Bites,"North Indian, South Indian, Chinese"
 4075,200.0,2.8,Multi Snacky Hub,No,No,Quick Bites,Fast Food
 4076,200.0,3.5,Mum?s Kitchen,Yes,No,Delivery,"North Indian, South Indian"
-4077,200.0,3.5,MumÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs Kitchen,Yes,No,Delivery,"North Indian, South Indian"
 4078,100.0,3.6,Mumbai Badam Milk & Lassi Center,Yes,No,Kiosk,"Beverages, Desserts"
 4079,500.0,4.2,Mumbai Bistro,Yes,No,Cafe,"Cafe, North Indian, Street Food"
 4080,100.0,3.7,Mumbai Kulfi,Yes,No,Dessert Parlor,"Ice Cream, Desserts"
@@ -4706,7 +4663,6 @@
 4704,700.0,3.9,PHEW (Play Hard Eat Wild),Yes,Yes,Cafe,"Continental, Lebanese, Middle Eastern, North Indian, Chinese, BBQ, Cafe"
 4705,1100.0,4.4,Phobidden Fruit,No,No,Casual Dining,"Vietnamese, Salad"
 4706,300.0,4.0,Phulke Ghar Ke,Yes,No,Quick Bites,"North Indian, Chinese"
-4707,400.0,3.7,PiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ±ata,No,No,Bakery,Bakery
 4708,400.0,3.6,Picante,Yes,No,Delivery,"Sandwich, Fast Food"
 4709,300.0,2.8,Picnik,Yes,No,Quick Bites,"North Indian, Street Food, Beverages"
 4710,300.0,3.2,Pig Out,No,No,Quick Bites,South Indian
@@ -4893,8 +4849,6 @@
 4891,1400.0,4.2,"R Bar - Renaissance Hotel, Bengaluru",No,Yes,"Bar, Casual Dining",Continental
 4892,300.0,3.6,R R Noodles Express,Yes,No,"Takeaway, Delivery",Chinese
 4893,300.0,3.4,R S Lunch Home,No,No,Quick Bites,South Indian
-4894,400.0,3.7,RÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂªveur Chocolates,No,No,Dessert Parlor,Desserts
-4895,400.0,3.7,RÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂªveur Chocolates,No,No,Dessert Parlor,Desserts
 4896,1200.0,3.8,Raaga,Yes,Yes,Casual Dining,"North Indian, Chinese, Continental"
 4897,300.0,3.6,Raams Chicken,No,No,Quick Bites,Andhra
 4898,300.0,3.6,Raapchick,Yes,No,Quick Bites,"Fast Food, Burger"
@@ -5270,7 +5224,6 @@
 5268,700.0,4.0,Sanman,No,No,Casual Dining,"North Indian, South Indian, Fast Food, Chinese"
 5269,250.0,3.5,Sanman Veg,No,No,Quick Bites,"South Indian, North Indian, Chinese"
 5270,150.0,3.2,Sannidhi Grand,No,No,Quick Bites,"South Indian, North Indian, Chinese"
-5271,1000.0,4.9,SantÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© Spa Cuisine,No,Yes,Casual Dining,"Healthy Food, Salad, Mediterranean"
 5272,150.0,3.9,Santhanam Sweets & Savouries,No,No,Sweet Shop,"Mithai, Street Food"
 5273,550.0,3.4,Santhrupthi,No,No,Casual Dining,"Andhra, South Indian, North Indian, Biryani"
 5274,650.0,3.7,Santo's,Yes,No,Casual Dining,"North Indian, Fast Food"
@@ -5328,8 +5281,6 @@
 5326,1200.0,4.3,Season - Adarsh Hamilton,No,Yes,Casual Dining,"North Indian, Chinese, South Indian, Continental"
 5327,1000.0,2.9,Seasons,Yes,No,Casual Dining,"North Indian, South Indian, Chinese, Seafood, Kerala, Arabian, Juices"
 5328,400.0,3.7,Second Wife Cafe,Yes,No,Quick Bites,"Arabian, North Indian"
-5329,700.0,4.3,Sector 7 CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©,Yes,No,Cafe,"Cafe, Continental, Pizza, Salad"
-5330,700.0,4.3,Sector 7 CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©,Yes,No,Cafe,"Cafe, Continental, Pizza, Salad"
 5331,500.0,3.6,Seekers Cafe,No,No,Casual Dining,"Italian, Continental"
 5332,350.0,3.3,SeeYa Restaurant,No,No,Quick Bites,"North Indian, Kerala, Chinese"
 5333,300.0,3.7,Selfie Cafe,No,No,"Beverage Shop, Quick Bites","Beverages, Fast Food, Desserts"
@@ -6259,8 +6210,6 @@
 6257,1200.0,2.8,The Buffet Table,No,Yes,Casual Dining,"North Indian, Pan Asian, Chinese, Italian, Continental, South Indian"
 6258,700.0,4.4,The Bundle Co.,Yes,No,Quick Bites,"Burger, Continental, Italian, Beverages"
 6259,400.0,3.8,The Burger Place,Yes,No,Quick Bites,"Burger, Continental, Fast Food"
-6260,800.0,4.0,The CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© @ Saanchi,No,No,Cafe,Cafe
-6261,800.0,4.0,The CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© @ Saanchi,No,No,Cafe,Cafe
 6262,500.0,3.0,The Cafe Nuts and Bolts,Yes,No,Cafe,"Cafe, Fast Food, Chinese"
 6263,300.0,3.2,The Cake City,Yes,No,"Quick Bites, Bakery","Chinese, Continental, Desserts, Bakery"
 6264,300.0,3.4,The Cake Factory,No,No,Bakery,Bakery
@@ -6789,9 +6738,6 @@
 6787,500.0,3.7,Urban Bakes & Cafe,No,No,Cafe,"Cafe, Bakery"
 6788,700.0,3.5,Urban Grills Restaurant,No,No,Casual Dining,"Arabian, North Indian, Biryani"
 6789,400.0,3.4,Urban Kitchen,Yes,No,Delivery,"Asian, North Indian"
-6790,800.0,3.9,Urban Solace - CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© for the Soul,Yes,No,"Cafe, Casual Dining","Cafe, American, Continental, Steak"
-6791,800.0,3.9,Urban Solace - CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© for the Soul,Yes,No,"Cafe, Casual Dining","Cafe, American, Continental, Steak"
-6792,800.0,3.9,Urban Solace - CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© for the Soul,Yes,No,"Cafe, Casual Dining","Cafe, American, Continental, Steak"
 6793,800.0,3.6,Urban Spice,Yes,No,Casual Dining,"North Indian, Chinese, Continental"
 6794,1000.0,3.5,Urban Spoon Buffet Restaurant,No,Yes,Casual Dining,"North Indian, Chinese"
 6795,1200.0,4.1,Urban Tamaasha,Yes,Yes,Casual Dining,"North Indian, Chinese, Continental"
@@ -6921,9 +6867,6 @@
 6919,500.0,4.3,Waffle Walle,Yes,No,Kiosk,"Desserts, Belgian, Beverages"
 6920,400.0,3.9,Waffle-A-Go Go,Yes,No,Dessert Parlor,"Fast Food, Desserts, Ice Cream"
 6921,400.0,3.9,WAFL,Yes,No,Food Court,"Cafe, Fast Food, Desserts, Beverages"
-6922,400.0,4.0,WAFL CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©,Yes,No,"Dessert Parlor, Quick Bites","Cafe, Fast Food, Desserts, Beverages"
-6923,400.0,3.9,WAFL CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©,Yes,No,"Dessert Parlor, Quick Bites","Desserts, Beverages, American"
-6924,400.0,3.9,WAFL CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©,Yes,No,"Dessert Parlor, Quick Bites","Desserts, Beverages, American"
 6925,400.0,4.2,WAFL Co,Yes,No,Dessert Parlor,"Desserts, Beverages"
 6926,350.0,3.7,Wahab,Yes,No,Quick Bites,"North Indian, Mughlai, Chinese"
 6927,200.0,3.2,Waikiki,No,No,Quick Bites,"Fast Food, Beverages"
@@ -7028,9 +6971,6 @@
 7026,400.0,4.0,Yak's Kitchen,No,No,Quick Bites,"Chinese, Tibetan, Momos"
 7027,2300.0,4.2,Yataii - Shangri-La Hotel,No,Yes,Fine Dining,Japanese
 7028,2800.0,4.6,Yauatcha,No,Yes,Fine Dining,"Chinese, Asian, Cantonese, Tea"
-7029,600.0,3.9,Yauatcha PÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢tisserie,Yes,No,Dessert Parlor,Desserts
-7030,600.0,3.9,Yauatcha PÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢tisserie,Yes,No,Dessert Parlor,Desserts
-7031,600.0,3.9,Yauatcha PÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢tisserie,Yes,No,Dessert Parlor,Desserts
 7032,400.0,3.5,Yeruva Biriyani,Yes,No,Delivery,"Biryani, Chinese"
 7033,300.0,3.7,Yeti,No,No,"Quick Bites, Dessert Parlor","Fast Food, Desserts, Ice Cream"
 7034,100.0,3.4,Yi Moi Chinese Fast Food,No,No,Quick Bites,Chinese
