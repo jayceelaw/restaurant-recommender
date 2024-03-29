@@ -10,6 +10,7 @@ QUESTIONS = ['Budget:', 'How many places do you want to go?',
 
 t = TreeBuilder()
 tree = t.build_tree('data.csv')
+print(tree.filter_restaurants(5, 5000, [{'North Indian', 'Chinese', 'Mexican'}, 'Casual Dining', 'Yes', 'No']))
 # print(tree)
 answer = []
 get_user_input(QUESTIONS, answer)

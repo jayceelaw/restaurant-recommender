@@ -126,7 +126,7 @@ class Tree:
                     return
             self._subtrees.append(tree)
 
-    def find_restaurants(self, user_input: list[str]) -> set[str]:
+    def find_restaurants(self, user_input: list[str]) -> set[Tree]:
         """
         Returns a set of all restaurants matching user input for each category,
         or None if there are no matches.
@@ -136,7 +136,7 @@ class Tree:
         """
         # base case - return list of restaurants
         if len(user_input) == 0:
-            return {subtree._root for subtree in self._subtrees}
+            return {subtree for subtree in self._subtrees}
         else:
             start = 0
             end = len(self._subtrees)
@@ -152,6 +152,56 @@ class Tree:
                     end = mid
                 else:
                     start = mid + 1
+
+    def filter_restaurants(self, num_places: int, max_budget: int, input: list) -> list[str]:
+        """Returns a list of the names of the restaurants whose total average prices fall within
+        the max_budget, including all cuisines listed in input.
+
+        Preconditions:
+            - all(r.rating is not None and r.price is not None for r in restaurants)
+            - 0 <= max_budget
+            - len(input[0]) <= num_places
+            - input in the form [{cuisines}, type, table booking, online order]
+            - self._root == 'root'
+        """
+        budget = max_budget / num_places
+        all_restaurants = []
+
+        for cuisine in input[0]:
+            restaurants = list(self.find_restaurants([cuisine] + input[1:]))
+            restaurants = [r for r in restaurants if r.price <= budget]  # Filtering by budget
+            restaurants.sort(key=lambda r: r.rating, reverse=True)
+            all_restaurants.append(restaurants)
+
+        selected = [restaurants[0]._root for restaurants in all_restaurants]
+        all_restaurants = [restaurant for restaurants in all_restaurants for restaurant in restaurants if
+                           restaurant._root not in selected]
+        return selected + [restaurant._root for restaurant in all_restaurants[:num_places - len(selected)]]
+
+    def get_all_cuisines(self) -> list[str]:
+        """ Returns a list of all cuisines in tree (sorted in alphabetical order).
+
+        Preconditions:
+            - self._root == 'root'
+        """
+        cuisines = []
+        for cuisine in self._subtrees:
+            cuisines.append(cuisine._root)
+
+        return cuisines
+
+    def get_all_types(self) -> list[str]:
+        """ Returns a list of all types in tree.
+
+        Preconditions:
+            - self._root == 'root'
+        """
+        types = set()
+        for cuisine in self._subtrees:
+            for res_type in cuisine._subtrees:
+                types.add(res_type._root)
+
+        return list(types)
 
     def restaurant_combination(self, user_info: list) -> list[set]:
         """ Find combinations of restaurant based on the user's input"""
