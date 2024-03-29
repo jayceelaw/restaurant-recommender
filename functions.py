@@ -153,6 +153,50 @@ class Tree:
                 else:
                     start = mid + 1
 
+    def restaurant_combination(self, user_info: list) -> list[set]:
+        """ Find combinations of restaurant based on the user's input"""
+        places = []
+        for place in user_info[2:]:
+            match = self.find_restaurants(place)
+            places.append(match)
+        if None in places:
+            print('No match found')
+        return places
+
+    def find_leaf_node(self, target: str) -> Optional[Tree]:
+        """ Find restaurant with gviven name"""
+        if self._root == target:
+            return self
+
+        for subtree in self._subtrees:
+            result = subtree.find_leaf_node(target)
+            if result:
+                return result
+
+        return None
+
+    def find_combinations(self, list_of_sets: list[set], budget: int):
+        """
+        Preconditions:
+        - list_of_sets is not None
+        """
+        def generate_combinations(index, current_combination, current_price):
+            if current_price > budget:
+                return []
+
+            if index == len(list_of_sets):
+                return [current_combination]
+
+            combinations = []
+            for leaf in list_of_sets[index]:
+                new_combination = current_combination + [leaf]
+                new_price = current_price + self.find_leaf_node(leaf).price
+                combinations.extend(generate_combinations(index + 1, new_combination, new_price))
+
+            return combinations
+
+        return generate_combinations(0, [], 0)
+
 
 class TreeBuilder:
     """ Class used to build the tree from the restaurant data

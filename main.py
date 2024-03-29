@@ -1,13 +1,22 @@
 """ TODO: docstring """
 import python_ta
 
-from assignments.project2.functions import TreeBuilder
+from functions import TreeBuilder
+from recommendation_system import get_user_input
+QUESTIONS = ['Budget:', 'How many places do you want to go?',
+             'What cuisine', 'Choose:', 'Online ordering?',
+             'Table reservation']
+
 
 t = TreeBuilder()
-tree = t.build_tree('test_data.csv')
-print(tree)
+tree = t.build_tree('data.csv')
+# print(tree)
+answer = []
+get_user_input(QUESTIONS, answer)
 
-print(tree.find_restaurants(['Beverages', 'Dessert Parlor', 'No', 'Yes']))
+lits_of_sets = tree.restaurant_combination(answer)
+
+print(tree.find_combinations(lits_of_sets, int(answer[0]))[:5])
 
 
 python_ta.check_all(config={
