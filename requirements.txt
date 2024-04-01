@@ -1,0 +1,5 @@
+# Python libraries used for this project.
+
+# Testing and code checking
+pytest
+python-ta~=2.7.0
